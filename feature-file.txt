@@ -3,3 +3,4 @@ Distributed Version Control System
 Tracks the changes made
 Efficient tool for software development
 Retrieve previous versions using tags
+Merging 2 branches
