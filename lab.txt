@@ -1,0 +1,9 @@
+Project Management with Git:BCS358C
+In Git Lab we learnt
+1.Setting up basic commands
+2.Collabortion and Remote Repositories
+3.Advance commands- 
+ tag
+ cherry-pick
+ git log
+ git revert and more
