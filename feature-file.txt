@@ -3,4 +3,5 @@ Distributed Version Control System
 Tracks the changes made
 Efficient tool for software development
 Retrieve previous versions using tags
-Merging 2 branches
+Merging 2 branches - main with feature-branch--- so changes made in feature-branch is reflected in maon branch
+
